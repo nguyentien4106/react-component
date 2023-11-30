@@ -14,10 +14,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/parsonsnguyen/React_Components.git"
+        "url": "https://github.com/nguyentien4106/react-component"
     },
-    "homepage": "https://github.com/parsonsnguyen/React_Components",
-    "author": "parsons",
+    "homepage": "https://github.com/nguyentien4106/react-component",
+    "author": "walter",
     "license": "MIT",
     "devDependencies": {
         "babel-core": "^6.26.0",
